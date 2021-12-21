@@ -1,4 +1,3 @@
-/* Parallel dot product */
 #include <mpi.h>
 #include <cstdio>
 #include <cstdlib>
